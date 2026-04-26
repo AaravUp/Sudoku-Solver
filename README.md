@@ -2,10 +2,10 @@
 A python sudoku solver using backtracking algorithm built with Numpy
 
 How To Run:
-1. Clone the respository
+1. Clone the repository
 2. Install Numpy via windows terminal
 3. Run Sudoku_Solver.py
-4. Input each row of the puzzle as 9 numbers seperated by space (0's to be filled in empty spaces)
+4. Input each row of the puzzle as 9 numbers separated by space (0's to be filled in empty spaces)
 
 How it Works
 The code utilizes a recursive algorithm which...
